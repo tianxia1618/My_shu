@@ -1,7 +1,7 @@
 {
  "version": 7,
  "entry_package": "sources_by_wenge",
- "download_url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/tianxia1618/My_shu/main/jar/sources_by_wenge.jar",
+ "download_url": "https://gh.xxooo.cf/https://github.com/tianxia1618/My_shu/blob/main/jar/wenge_sources.jar",
  "update_msg": "①幻听网修复播放/下载（App把播放器框架页误当音频地址，已改为只认 m4a/mp3 等真实音频直链）②有听网修复下拉加载（第2页起翻页链断裂）③其余站点不动",
  "support_url": ""
 }

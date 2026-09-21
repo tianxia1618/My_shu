@@ -1,0 +1,7 @@
+{
+  "version": 0.1,
+  "entry_package": "video_cctv",
+  "download_url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/tianxia1618/My_shu/main/jar/video_cctv.jar",
+  "update_msg": "修复播播与sources_by_eprendre.jar有冲突。",
+  "support_url": ""
+}

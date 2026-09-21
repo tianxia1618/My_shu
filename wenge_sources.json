@@ -1,0 +1,7 @@
+{
+ "version": 7,
+ "entry_package": "sources_by_wenge",
+ "download_url": "https://12ab693f1ae14e88b8589cceef6eecc8.app.workbuddy.link/sources_by_wenge.bin",
+ "update_msg": "自制听书-by文哥 v2.9.0：①幻听网修复播放/下载（App把播放器框架页误当音频地址，已改为只认 m4a/mp3 等真实音频直链）②有听网修复下拉加载（第2页起翻页链断裂）③其余站点不动",
+ "support_url": ""
+}
